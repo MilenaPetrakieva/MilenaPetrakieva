@@ -1,6 +1,6 @@
 ### Hi there, I'm __Milena__! 👋
 
-[![Facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffacebook-logo&psig=AOvVaw2BUNaFmzDPdVxRy1gHY0DR&ust=1684423122127000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiNiKHT_P4CFQAAAAAdAAAAABAE)](https://www.facebook.com/profile.php?id=100006068672615)
+[![Facebook](https: //img.shields.lo/badge/-Facebook-00B2#F?style-flat-square&logo Facebook&logoColormwhite)](https://www.facebook.com/profile.php?id=100006068672615)
 
 
 <!--
