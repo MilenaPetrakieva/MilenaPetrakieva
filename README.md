@@ -1,6 +1,6 @@
 ### Hi there, I'm __Milena__! 👋
 
-[![Facebook](https://img.shields.lo/badge/-Facebook-00B2#F?style-flat-square&logo Facebook&logoColor-white)](https://www.facebook.com/profile.php?id=100006068672615)
+[![Facebook](https://img.shields.lo/badge/-Facebook-00B2#F?style-flat-square&logo-Facebook&logoColor-white)](https://www.facebook.com/profile.php?id=100006068672615)
 
 
 <!--
