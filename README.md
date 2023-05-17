@@ -5,6 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-Oe76a8?style-flat-square&logo-LinkedIn&logoColor-white)](https://www.linkedin.com/in/milena-petrakieva-92a68b23a/)
 
 
+### GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokenov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 
 <!--
 **MilenaPetrakieva/MilenaPetrakieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
