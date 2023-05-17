@@ -2,6 +2,8 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style-flat-square&logo-Facebook&logoColor-white)](https://www.facebook.com/profile.php?id=100006068672615)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style-flat-square&logo-Instagram&logoColor-white)](https://www.instagram.com/milena.petrakieva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Oe76a8?style-flat-square&logo-LinkedIn&logoColor-white)](https://www.linkedin.com/in/milena-petrakieva-92a68b23a/)
+
 
 
 <!--
